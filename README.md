@@ -1,10 +1,10 @@
 ## Olá! Eu sou o Diego Resta 🖐️
 
-[![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)]
+[![Blog](https://img.shields.io/website?label=DiegoResta.com&style=for-the-badge&url=https://github.com/DiegoResta/)]
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]
 
-![Diego Resta GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoresta&show_icons=true&theme=dark)
+![Diego Resta GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoresta&show_icons=true&theme=highcontrast)
 
 ## Tecnologias que eu uso no meu dia
 
